@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shaheeraliwrg.github.io/wrg.hoppscotch/sitemap.xml
+Sitemap: https://wrg-hoppscotch.vercel.app/sitemap.xml
